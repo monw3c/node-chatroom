@@ -1,3 +1,3 @@
 # node-chatroom
-后台基于socket.io的聊天室
-前台基于vue+webpack
+后台socket.io的聊天室    
+前台vue+webpack
